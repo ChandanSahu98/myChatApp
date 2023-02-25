@@ -1,0 +1,13 @@
+
+.hide{
+    display: none;
+}
+.chat-section{
+    height: 360px;
+    overflow: hidden;
+    overflow-y: auto;
+}
+.lists{
+    color: white;
+    background-color: #9d4edd;
+}
